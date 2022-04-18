@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bindings version="2.1" xmlns="http://java.sun.com/xml/ns/jaxb">
+  <!--
+
+Este archivo ha sido generado por la arquitectura JavaTM para la implantación de la referencia de enlace (JAXB) XML v2.3.2 
+Visite <a href="https://javaee.github.io/jaxb-v2/">https://javaee.github.io/jaxb-v2/</a> 
+Todas las modificaciones realizadas en este archivo se perderán si se vuelve a compilar el esquema de origen. 
+Generado el: 2022.04.16 a las 11:43:33 PM CDT 
+
+  -->
+  <bindings scd="x-schema::tns" xmlns:tns="https://t4is.uv.mx/agenda">
+    <schemaBindings map="false">
+      <package name="https.t4is_uv_mx.agenda"/>
+    </schemaBindings>
+    <bindings scd="tns:BuscarRegistrosResponse">
+      <class ref="https.t4is_uv_mx.agenda.BuscarRegistrosResponse"/>
+    </bindings>
+    <bindings scd="tns:RegistarEntradaRequest">
+      <class ref="https.t4is_uv_mx.agenda.RegistarEntradaRequest"/>
+    </bindings>
+    <bindings scd="tns:RegistarEntradaResponse">
+      <class ref="https.t4is_uv_mx.agenda.RegistarEntradaResponse"/>
+    </bindings>
+    <bindings scd="tns:ModificarRegistroRequest">
+      <class ref="https.t4is_uv_mx.agenda.ModificarRegistroRequest"/>
+    </bindings>
+    <bindings scd="tns:ModificarRegistroResponse">
+      <class ref="https.t4is_uv_mx.agenda.ModificarRegistroResponse"/>
+    </bindings>
+    <bindings scd="tns:BorrarRegistroRequest">
+      <class ref="https.t4is_uv_mx.agenda.BorrarRegistroRequest"/>
+    </bindings>
+    <bindings scd="tns:BorrarRegistroResponse">
+      <class ref="https.t4is_uv_mx.agenda.BorrarRegistroResponse"/>
+    </bindings>
+  </bindings>
+</bindings>
+
